@@ -6,7 +6,7 @@ Welcome to the Nitro Developer Bootcamp track. Over the next 6 months you will l
 
 The most common misconception we get when people start this course is that we're teaching you Ruby, Javascript, HTML and CSS. Don't get me wrong, we are going to teach you those things, but that's actually not the most important set of things you're going to learn.
 
-Over your career as a professional developer you're probably going to end up programming in languages that haven't been invented yet. The most important thing we're going to teach you is how to learn. Using the technologies above, we'll work with you to build the skills required to read and understand error messages and google for the answers so that when you have to learn a new library, framework or language, you'll know just how to go about doing so.
+As your career as a professional developer unfolds, you're probably going to end up programming in languages that haven't been invented yet. The most important thing we're going to teach you is how to learn. Using the technologies above, we'll work with you to build the skills required to read and understand error messages and google for the answers so that when you have to learn a new library, framework or language, you'll know just how to go about doing so.
 
 ## The Learn IDE
 
@@ -14,6 +14,4 @@ When you first start learning to code, the amount of setup you have to do to get
 
 ## Local Development
 
-But now that you have completed the Bootcamp Prep track and our together as a class, we can set up your local development environment. Please follow the instructions below and your instructor is here to help!
-
-### Instructions WIP
+With the completion of the Bootcamp Prep track and you're new PHRG laptop, you are ready to say goodbye to the Learn IDE and set up your first local development environment!
