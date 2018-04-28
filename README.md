@@ -10,8 +10,8 @@ As your career as a professional developer unfolds, you're probably going to end
 
 ## The Learn IDE
 
-When you first start learning to code, the amount of setup you have to do to get your computer ready to really *make* something can be frustrating. To counter this, we created the Learn IDE. The Learn IDE uses a popular programmers text editor (Atom) and also provides you with a terminal window for running commands, just as you would as a professional developer. However, instead of having to configure your local computer to allow you to program, it runs your commands on a remote computer so you can jump right into the programming - rather than spending hours configuring your computer.
+When you first start learning to code, the amount of setup you have to do to get your computer ready to really *make* something can be frustrating. To counter this, we created the Learn IDE. The Learn IDE uses a popular programmers text editor (Atom) and also provides you with a terminal window for running commands, just as you would as a professional developer. However, instead of having to configure your local computer to allow you to program, it runs your commands on a remote computer so you can jump into the programming.
 
 ## Local Development
 
-With the completion of the Bootcamp Prep track and you're new PHRG laptop, you are ready to say goodbye to the Learn IDE and set up your first local development environment!
+With your new Power laptop, you are ready to say goodbye to the Learn IDE and set up your first local development environment! Having your own dev environment empowers you to not only complete this Full Stack Web Developer curriculum like a pro, it gives you the flexibility to create your own projects as we go. Let's do this!
