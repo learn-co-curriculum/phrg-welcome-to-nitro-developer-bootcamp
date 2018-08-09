@@ -1,12 +1,12 @@
 # Welcome
 
-Welcome to the Nitro Developer Bootcamp track. Over the next 6 months you will learn everything you need to know to get started as a Full Stack Web Developer at Power Home Remodeling Group. Before you get started, just a few thoughts about how to learn best using learn.co. It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
+Welcome to the Nitro Developer Bootcamp track. Over the next 6 months you will learn everything you need to know to get started as a Full Stack Web Developer at Power Home Remodeling Group. Before you get started, just a few thoughts about how to learn best using learn.co. It's going to be harder and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
 ## Learning How to Learn
 
 The most common misconception we get when people start this course is that we're teaching you Ruby, Javascript, HTML and CSS. Don't get me wrong, we are going to teach you those things, but that's actually not the most important set of things you're going to learn.
 
-As your career as a professional developer unfolds, you're probably going to end up programming in languages that haven't been invented yet. The most important thing we're going to teach you is how to learn. Using the technologies above, we'll work with you to build the skills required to read and understand error messages and google for the answers so that when you have to learn a new library, framework or language, you'll know just how to go about doing so.
+As your career as a professional developer unfolds, you're probably going to end up programming in languages that haven't been invented yet. The most important thing we're going to teach you is how to learn. Using the technologies above, we'll work with you to build the skills required to read and understand error messages and google for the answers so that when you have to learn a new library, framework, or language, you'll know just how to go about doing so.
 
 ## The Learn IDE
 
