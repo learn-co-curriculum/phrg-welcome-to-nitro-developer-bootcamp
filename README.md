@@ -1,6 +1,6 @@
 # Welcome to the Power Code Academy
 
-Welcome to the PHRG Bootcamp track of the Power Code Academy! Over the next 6 months you will learn everything you need to know to get started as an Apprentice Web Developer at Power Home Remodeling Group. Before you begin, just a few thoughts about how to learn best using learn.co. It's going to be harder and more rewarding than any other learning experience you've ever had.
+Welcome to the PCA Bootcamp track for the Power Code Academy! Over the next 5 months you will learn everything you need to know to get started as an Apprentice Web Developer at Power Home Remodeling Group. Before you begin, just a few thoughts about how to learn best using learn.co. It's going to be harder and more rewarding than any other learning experience you've ever had.
 
 ## Learning How to Learn
 
